@@ -1,0 +1,2 @@
+matrix-nio[e2e]>=0.24
+faster-whisper>=1.0.0
