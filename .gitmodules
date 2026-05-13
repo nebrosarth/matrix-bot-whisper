@@ -1,0 +1,3 @@
+[submodule "matrix_bot_common"]
+	path = matrix_bot_common
+	url = https://github.com/nebrosarth/matrix_bot_common.git
