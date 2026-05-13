@@ -2,7 +2,7 @@
   "homeserver": "https://matrix.example.com",
   "user_id": "@whisper:example.com",
   "password": "REPLACE_ME",
-  "store_path": "/opt/matrix-whisper-bot/store",
+  "store_path": "/opt/matrix-bot-whisper/store",
   "model_size": "medium",
   "language": "ru",
   "cpu_threads": 8,
